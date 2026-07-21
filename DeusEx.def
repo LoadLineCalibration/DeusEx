@@ -1,0 +1,5 @@
+LIBRARY DeusEx
+DESCRIPTION 'DeusEx.dll reconstructed package compile trial'
+EXPORTS
+	; Unreal package exports are emitted by IMPLEMENT_PACKAGE/IMPLEMENT_CLASS macros.
+	; Keep this DEF minimal for the first VC98 compile/link pass.
